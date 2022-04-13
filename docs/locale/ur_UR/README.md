@@ -29,7 +29,7 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
 <html>
 <table>
     <tr>
-      <th>Version</th>
+      <th>File</th>
       <th>1.1</th>
       <th>1.2</th>
       <th>1.3</th>
@@ -47,7 +47,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;Introduction</td>
@@ -58,7 +57,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Hyperledger Fabric</td>
@@ -69,7 +67,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Modularity</td>
@@ -80,7 +77,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Permissioned vs Permissionless Blockchains</td>
@@ -91,7 +87,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Smart Contracts</td>
@@ -102,7 +97,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;A New Approach</td>
@@ -113,7 +107,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Privacy and Confidentiality</td>
@@ -124,7 +117,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Pluggable Consensus</td>
@@ -135,7 +127,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Performance and Scalability</td>
@@ -146,7 +137,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Conclusion</td>
@@ -157,7 +147,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Acknowledgement</td>
@@ -168,7 +157,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>What’s new in Hyperledger Fabric v2.x</b></td>
@@ -179,7 +167,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;What’s new in Hyperledger Fabric v2.x</td>
@@ -190,7 +177,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Decentralized governance for smart contracts</td>
@@ -201,7 +187,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;New chaincode application patterns for collaboration and consensus</td>
@@ -212,7 +197,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Private data enhancements</td>
@@ -223,7 +207,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;External chaincode launcher</td>
@@ -234,7 +217,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;State database cache for improved performance on CouchDB</td>
@@ -245,7 +227,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Alpine-based docker images</td>
@@ -256,7 +237,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Sample test network</td>
@@ -267,7 +247,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Upgrading to Fabric v2.x</td>
@@ -288,7 +267,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>Release notes</b></td>
@@ -299,7 +277,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
     <tr>
       <td><b>Key Concepts</b></td>
@@ -310,7 +287,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;Introduction</td>
@@ -320,8 +296,7 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>-</td>
-            
+            <td>-</td>  
         </tr>
         <tr>
             <td>&emsp;&emsp;Hyperledger Fabric Model</td>
@@ -332,7 +307,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Blockchain network</td>
@@ -342,8 +316,7 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>-</td>
-            
+            <td>-</td> 
         </tr>
         <tr>
             <td>&emsp;&emsp;Identity</td>
@@ -354,7 +327,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Membership Service Provider (MSP)</td>
@@ -365,7 +337,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Policies</td>
@@ -376,7 +347,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Peers</td>
@@ -387,7 +357,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Ledger</td>
@@ -398,7 +367,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;The Ordering Service</td>
@@ -409,7 +377,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Smart Contracts and Chaincode</td>
@@ -420,7 +387,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Fabric chaincode lifecycle</td>
@@ -431,7 +397,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Private data</td>
@@ -442,7 +407,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Channel capabilities</td>
@@ -453,7 +417,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Use Cases</td>
@@ -464,7 +427,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
         <td><b>Getting Started</b></td>
@@ -475,7 +437,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
     </tr>
       <tr>
         <td>&emsp;&emsp;Getting Started</td>
@@ -486,7 +447,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Hyperledger Fabric smart contract (chaincode) APIs</td>
@@ -497,7 +457,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Hyperledger Fabric application SDKs</td>
@@ -508,11 +467,9 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Hyperledger Fabric CA</td>
-        <td>-</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -529,7 +486,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
     <tr>
         <td>&emsp;&emsp;Developing Applications</td>
@@ -540,7 +496,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;The scenario</td>
@@ -551,7 +506,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Analysis</td>
@@ -562,7 +516,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Process and Data Design</td>
@@ -573,7 +526,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Smart Contract Processing</td>
@@ -584,7 +536,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Application</td>
@@ -595,7 +546,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Application design elements</td>
@@ -606,7 +556,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
     <tr>
       <td><b>Tutorials</b></td>
@@ -617,7 +566,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
     <tr>
         <td>&emsp;&emsp;Tutorials</td>
@@ -628,7 +576,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Using the Fabric test network</td>
@@ -639,7 +586,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Deploying a smart contract to a channel</td>
@@ -650,7 +596,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Writing Your First Application</td>
@@ -661,7 +606,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Commercial paper tutorial</td>
@@ -672,7 +616,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Using Private Data in Fabric</td>
@@ -683,7 +626,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Secured asset transfer in Fabric</td>
@@ -694,7 +636,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Using CouchDB</td>
@@ -705,7 +646,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Creating a channel</td>
@@ -716,7 +656,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Adding an Org to a Channel</td>
@@ -727,7 +666,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Updating a channel configuration</td>
@@ -738,7 +676,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Writing Your First Chaincode</td>
@@ -749,7 +686,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Videos</td>
@@ -760,7 +696,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
     <tr>
       <td><b>Deploying a production network</b></td>
@@ -771,7 +706,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
     <tr>
         <td>&emsp;&emsp;Deploying a production network</td>
@@ -782,7 +716,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Step one: Decide on your network configuration</td>
@@ -793,7 +726,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Step two: Set up a cluster for your resources</td>
@@ -804,7 +736,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Step three: Set up your CAs</td>
@@ -815,7 +746,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Step four: Use the CA to create identities and MSPs</td>
@@ -826,7 +756,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Step five: Deploy peers and ordering nodes</td>
@@ -837,7 +766,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
       <tr>
         <td>&emsp;&emsp;Next steps</td>
@@ -848,7 +776,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        
       </tr>
     <tr>
       <td><b>Operations Guides</b></td>
@@ -859,7 +786,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;Setting up an ordering node</td>
@@ -870,7 +796,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Membership Service Providers (MSP)</td>
@@ -881,7 +806,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Using a Hardware Security Module (HSM)</td>
@@ -892,7 +816,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Channel Configuration (configtx)</td>
@@ -903,7 +826,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Endorsement policies</td>
@@ -914,7 +836,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Pluggable transaction endorsement and validation</td>
@@ -925,7 +846,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Access Control Lists (ACL)</td>
@@ -936,7 +856,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;MSP Implementation with Identity Mixer</td>
@@ -947,7 +866,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Identity Mixer MSP configuration generator (idemixgen)</td>
@@ -958,7 +876,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;The Operations Service</td>
@@ -969,7 +886,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Metrics Reference</td>
@@ -980,7 +896,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;External Builders and Launchers</td>
@@ -991,7 +906,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Chaincode as an external service</td>
@@ -1002,7 +916,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Error handling</td>
@@ -1013,7 +926,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Logging Control</td>
@@ -1024,7 +936,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Securing Communication With Transport Layer Security (TLS)</td>
@@ -1035,7 +946,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Configuring and operating a Raft ordering service</td>
@@ -1046,7 +956,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Migrating from Kafka to Raft</td>
@@ -1057,7 +966,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Bringing up a Kafka-based Ordering Service</td>
@@ -1068,7 +976,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>Upgrading to the latest release</b></td>
@@ -1079,7 +986,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;Upgrading to the latest release</td>
@@ -1090,7 +996,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Considerations for getting to v2.x</td>
@@ -1101,7 +1006,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Upgrading your components</td>
@@ -1112,7 +1016,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Updating the capability level of a channel</td>
@@ -1123,7 +1026,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Enabling the new chaincode lifecycle</td>
@@ -1134,7 +1036,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>Commands Reference</b></td>
@@ -1145,7 +1046,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;peer</td>
@@ -1156,7 +1056,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;peer chaincode</td>
@@ -1167,7 +1066,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;peer lifecycle chaincode</td>
@@ -1178,7 +1076,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;peer channel</td>
@@ -1189,7 +1086,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;peer version</td>
@@ -1200,7 +1096,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;peer node</td>
@@ -1211,7 +1106,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;configtxgen</td>
@@ -1222,7 +1116,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;configtxlator</td>
@@ -1233,7 +1126,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;cryptogen</td>
@@ -1244,7 +1136,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Service Discovery CLI</td>
@@ -1255,7 +1146,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Fabric-CA Commands</td>
@@ -1266,7 +1156,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>Architecture Reference</b></td>
@@ -1277,7 +1166,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;Hyperledger Fabric CA's User Guide</td>
@@ -1288,7 +1176,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Hyperledger Fabric SDKs</td>
@@ -1299,7 +1186,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Transaction Flow</td>
@@ -1310,7 +1196,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Service Discovery</td>
@@ -1321,7 +1206,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Defining capability requirements</td>
@@ -1332,7 +1216,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Channels</td>
@@ -1343,7 +1226,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;CouchDB as the State Database</td>
@@ -1354,7 +1236,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Peer channel-based event services</td>
@@ -1365,7 +1246,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Private Data</td>
@@ -1376,7 +1256,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Read-Write set semantics</td>
@@ -1387,7 +1266,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Gossip data dissemination protocol</td>
@@ -1398,7 +1276,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>Frequently Asked Questions</b></td>
@@ -1409,7 +1286,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;Endorsement</td>
@@ -1420,7 +1296,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Security & Access Control</td>
@@ -1431,7 +1306,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Application-side Programming Model</td>
@@ -1442,7 +1316,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Chaincode (Smart Contracts and Digital Assets)</td>
@@ -1453,7 +1326,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Differences in Most Recent Releases</td>
@@ -1464,7 +1336,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Ordering Service</td>
@@ -1475,7 +1346,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>Contributions Welcome!</b></td>
@@ -1486,7 +1356,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;Contributions Welcome!</td>
@@ -1497,7 +1366,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Ways to contribute</td>
@@ -1508,7 +1376,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Getting a Linux Foundation account</td>
@@ -1519,7 +1386,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Contributing documentation</td>
@@ -1530,7 +1396,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Project Governance</td>
@@ -1541,7 +1406,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Contribution guide</td>
@@ -1552,7 +1416,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Legal stuff</td>
@@ -1563,7 +1426,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Related Topics</td>
@@ -1574,7 +1436,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>Glossary</b></td>
@@ -1585,7 +1446,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
         <tr>
             <td>&emsp;&emsp;Glossary</td>
@@ -1596,7 +1456,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Anchor Peer</td>
@@ -1607,7 +1466,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;ACL</td>
@@ -1618,7 +1476,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Block</td>
@@ -1629,7 +1486,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Chain</td>
@@ -1640,7 +1496,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Chaincode</td>
@@ -1651,7 +1506,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Channel</td>
@@ -1662,7 +1516,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Commit</td>
@@ -1673,7 +1526,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Concurrency Control Version Check</td>
@@ -1684,7 +1536,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Configuration Block</td>
@@ -1695,7 +1546,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Consensus</td>
@@ -1706,7 +1556,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Consenter set</td>
@@ -1717,7 +1566,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Consortium</td>
@@ -1728,7 +1576,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Chaincode definition</td>
@@ -1739,7 +1586,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Dynamic Membership</td>
@@ -1750,7 +1596,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Endorsement</td>
@@ -1761,7 +1606,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Endorsement policy</td>
@@ -1772,7 +1616,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Follower</td>
@@ -1783,7 +1626,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Genesis Block</td>
@@ -1793,8 +1635,7 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>-</td>
-            
+            <td>-</td>  
         </tr>
         <tr>
             <td>&emsp;&emsp;Gossip Protocol</td>
@@ -1805,7 +1646,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Hyperledger Fabric CA</td>
@@ -1815,8 +1655,7 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>-</td>
-            
+            <td>-</td> 
         </tr>
         <tr>
             <td>&emsp;&emsp;Init</td>
@@ -1826,8 +1665,7 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>-</td>
-            
+            <td>-</td>  
         </tr>
         <tr>
             <td>&emsp;&emsp;Install</td>
@@ -1838,7 +1676,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Instantiate</td>
@@ -1848,8 +1685,7 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>-</td>
-            
+            <td>-</td> 
         </tr>
         <tr>
             <td>&emsp;&emsp;Invoke</td>
@@ -1860,7 +1696,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Leader</td>
@@ -1871,7 +1706,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Leading Peer</td>
@@ -1882,7 +1716,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Ledger</td>
@@ -1893,7 +1726,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Log entry</td>
@@ -1904,7 +1736,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Member</td>
@@ -1915,7 +1746,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Membership Service Provider</td>
@@ -1926,7 +1756,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Membership Services</td>
@@ -1937,7 +1766,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Ordering Service</td>
@@ -1948,7 +1776,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Organization</td>
@@ -1959,7 +1786,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Peer</td>
@@ -1970,7 +1796,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Policy</td>
@@ -1981,7 +1806,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Private Data</td>
@@ -1992,7 +1816,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Private Data Collection (Collection)</td>
@@ -2003,7 +1826,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Proposal</td>
@@ -2014,7 +1836,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Query</td>
@@ -2025,7 +1846,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Quorum</td>
@@ -2036,7 +1856,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Raft</td>
@@ -2047,7 +1866,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Software Development Kit (SDK)</td>
@@ -2058,7 +1876,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Smart Contract</td>
@@ -2069,7 +1886,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;State Database</td>
@@ -2080,7 +1896,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;System Chain</td>
@@ -2091,7 +1906,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;Transaction</td>
@@ -2102,7 +1916,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
         <tr>
             <td>&emsp;&emsp;World State</td>
@@ -2113,7 +1926,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            
         </tr>
     <tr>
       <td><b>Releases</b></td>
@@ -2124,7 +1936,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
     <tr>
       <td><b>Still Have Questions?</b></td>
@@ -2135,7 +1946,6 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
     <tr>
       <td><b>Status</b></td>
@@ -2146,9 +1956,10 @@ http://hyperledger-fabric.readthedocs.io/: اصل آن لائن دستاویزا
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      
     </tr>
 </table>
 <!-- just a test -->
 </html>
+
+
 
