@@ -6,7 +6,7 @@ A project to translate the Fabric documentation into Urdu.
 
 # Scope of Lab
 
-The purpose of this lab is to translate the Fabric documentation into Spanish. We will use this repository to sync with the latest English version of Hyperledger Fabric, starting with version 2.2.
+The purpose of this lab is to translate the Fabric documentation into Urdu. We will use this repository to sync with the latest English version of Hyperledger Fabric, starting with version 2.2.
 
 For subsequent releases, any update to source files will be translated in a new release base branch. Issues are used to track what to update in the changed docs.
 
